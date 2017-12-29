@@ -8,7 +8,6 @@ D:\Dev\BackUpDB\BackUpDB\BackUpDB\obj\Debug\BackUpDB.exe
 D:\Dev\BackUpDB\BackUpDB\BackUpDB\obj\Debug\BackUpDB.pdb
 D:\Dev\BackUpDB\BackUpDB\BackUpDB\bin\Debug\Npgsql.dll
 D:\Dev\BackUpDB\BackUpDB\BackUpDB\obj\Debug\BackUpDB.csprojResolveAssemblyReference.cache
-G:\Dev\BackUpDB\BackUpDB\BackUpDB\obj\Debug\BackUpDB.csprojResolveAssemblyReference.cache
 G:\Dev\BackUpDB\BackUpDB\BackUpDB\obj\Debug\BackUpDB.csproj.CoreCompileInputs.cache
 G:\Dev\BackUpDB\BackUpDB\BackUpDB\obj\Debug\BackUpDB.exe
 G:\Dev\BackUpDB\BackUpDB\BackUpDB\obj\Debug\BackUpDB.pdb
