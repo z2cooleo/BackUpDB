@@ -88,13 +88,13 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_DABFDA3A20EEF8648026844B7C5FDF3C"
+        "OwnerKey" = "8:_EFFEFC64374EF55617166CF79DFF7CBE"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_EFFEFC64374EF55617166CF79DFF7CBE"
+        "OwnerKey" = "8:_DABFDA3A20EEF8648026844B7C5FDF3C"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -359,11 +359,6 @@
             "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_DABFDA3A20EEF8648026844B7C5FDF3C"
-                    {
-                    "Name" = "8:Newtonsoft.Json.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:Newtonsoft.Json.dll"
             "TargetName" = "8:"
@@ -390,11 +385,6 @@
             "AssemblyAsmDisplayName" = "8:Npgsql, Version=2.0.11.93, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_EFFEFC64374EF55617166CF79DFF7CBE"
-                    {
-                    "Name" = "8:Npgsql.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
             "SourcePath" = "8:Npgsql.dll"
             "TargetName" = "8:"
@@ -481,15 +471,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Setup"
-        "ProductCode" = "8:{A6E8E4E3-0734-43B6-AE8F-EADF06371909}"
-        "PackageCode" = "8:{34F62EAC-DF11-4AF6-A0F5-B551C91DD88C}"
+        "ProductCode" = "8:{CD2F4A65-55D7-435B-846C-808206AC9397}"
+        "PackageCode" = "8:{DF4B2595-040D-4631-BE0F-E0C39889AD9D}"
         "UpgradeCode" = "8:{E39197D8-E916-4224-8EF0-958CFD999422}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.7.7"
+        "ProductVersion" = "8:1.7.8"
         "Manufacturer" = "8:Default Company Name"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -1003,7 +993,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_C4D029B45649491A84BF51259536105C"
             {
-            "SourcePath" = "8:..\\BackUpDB\\obj\\Release\\BackUpDB.exe"
+            "SourcePath" = "8:..\\BackUpDB\\obj\\Debug\\BackUpDB.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_03BF4F9F4AFF43858088A917413A8A55"
